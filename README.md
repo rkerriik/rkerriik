@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rkerriik
 - 👀 I’m interested in AI and ML in internet security solutions
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and Swift
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rkerr@netspec.com
 
